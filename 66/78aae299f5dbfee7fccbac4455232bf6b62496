@@ -1,0 +1,14 @@
+LICENSE
+  h_df978c7f1343bf 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6678aae299f5dbfee7fccbac4455232bf6b62496",
+  "prompts": {},
+  "humans": {
+    "h_df978c7f1343bf": {
+      "author": "ofer-gitera <ofer@gitera.io>"
+    }
+  }
+}
